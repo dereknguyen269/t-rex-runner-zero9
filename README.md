@@ -13,7 +13,7 @@ T-rex runner Zero9 with different languages for web server 😎. Implement for h
 ### Go
 
 ```bash
-  go go_server.go
+  go run go_server.go
 ```
 
 ### Nodejs
