@@ -1,0 +1,25 @@
+{
+  "name": "t-rex-runner-zero9",
+  "version": "1.0.0",
+  "description": "T-rex runner zero9 with different languages programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayou/t-rex-runner.git"
+  },
+  "keywords": [
+    "t-rex-runner"
+  ],
+  "author": "Derek Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayou/t-rex-runner/issues"
+  },
+  "homepage": "https://github.com/wayou/t-rex-runner#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
